@@ -12,8 +12,7 @@ env/
 .env.local
 .env.*
 
-# Databases & Vectorstores
-database/
+# Vectorstores & DB files
 vectorstore/
 *.db
 *.sqlite3
