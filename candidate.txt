@@ -1,0 +1,37 @@
+Candidate Name: Yuvika Singh
+
+Experience Level: Fresher
+
+Professional Experience:  8 months
+
+Skills:
+C++
+Java
+Python
+HTML
+CSS
+Reactjs
+Nextjs
+Nodejs
+ExpressJs
+MongoDB
+Kafka
+Hadoop
+AWS
+
+FastAPI
+Spring Boot
+SQL
+LLMs
+LangChain
+ChromaDB
+Streamlit
+
+Education:
+Btech in Computer Science Engineering
+BIT Mesra Ranchi,Jharkhand
+Location:
+Ranchi,Jharkhand
+
+Notice Period / Availability:
+Available to join immediately

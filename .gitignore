@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*
+
+# Databases & Vectorstores
+database/
+vectorstore/
+*.db
+*.sqlite3
+
+# Node & Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env*
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
